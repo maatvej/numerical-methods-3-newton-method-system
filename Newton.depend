@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1573210831 source:c:\users\michael\desktop\programs\newton\main.cpp
+	<iostream>
+	<math.h>
+	<locale>
+
+1573211629 source:c:\users\michael\desktop\Метод Ньютона С++\programs\newton\main.cpp
+	<iostream>
+	<math.h>
+	<locale>
+
